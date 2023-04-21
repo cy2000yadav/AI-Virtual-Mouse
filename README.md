@@ -1,8 +1,6 @@
 # AI-Virtual-Mouse
 
-Virtual AI mouse
-
-Setting up and running
+Setting up and running:
 
 Python (3.6–3.8.5) is a prerequisite.
 
